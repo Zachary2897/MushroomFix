@@ -2,7 +2,7 @@
     "modid": "mushroomfix",
     "name": "MushroomFix",
     "description": "Renames mushrooms to Brown Mushroom or Red Mushroom for each type respectively.",
-    "version": "v1.0.1",
+    "version": "v1.0.2",
     "mcversion": "1.12.2",
     "url": "https://zachary2897.com/mushroomfix",
     "updateUrl": "",
